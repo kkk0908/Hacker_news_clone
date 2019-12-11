@@ -1,4 +1,4 @@
-4.	Hacker News Clone : Done a clone of Hacker News website (https://news.ycombinator.com/) 
+Hacker News Clone : Done a clone of Hacker News website (https://news.ycombinator.com/) 
 Used the data provided in the JSON files and build the following features:
 1.	 List Page - Fetch and display top posts
 2.	Detail Page - Show top-level comments
